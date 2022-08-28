@@ -28,7 +28,7 @@ To use the mainnet Juicebox subgraph without being rate-limited:
 
 1. Create your API key on [Subgraph Studio API Keys](https://thegraph.com/studio/apikeys/).
 2. Fund your billing balance on [Subgraph Studio Billing](https://thegraph.com/studio/billing/).
-3. Query the mainnet LooksRare subgraph using `https://gateway.thegraph.com/api/<your-api-key>/subgraphs/id/FVmuv3TndQDNd2BWARV8Y27yuKKukryKXPzvAS5E7htC`. REPLACE WITH REAL HASH
+3. Query the mainnet LooksRare subgraph using `https://gateway.thegraph.com/api/<your-api-key>/subgraphs/id/QmQyfYsGcnbjKKBCCatM7LcY6P2PwHANyaeBuxSiRa22TC`.
 
 You can also follow the [Video Tutorial](https://www.youtube.com/watch?v=UrfIpm-Vlgs).
 
